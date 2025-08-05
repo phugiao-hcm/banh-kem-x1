@@ -28,23 +28,20 @@
 
                 <!-- Tiêu đề -->
                 <h1 class="text-5xl font-extrabold text-[#ff4e4e]">
-                    Bánh kem Phú Giáo Việt Nam
+                    Bánh kem Phú Giáo
                 </h1>
 
                 <!-- Mô tả -->
                 <p class="text-gray-700 leading-relaxed">
-                    Bánh kem Phú Giáo Việt Nam trang cập nhật thông tin về sản
-                    phẩm, kem,
+                    Bánh kem Phú Giáo trang cập nhật thông tin về sản phẩm, kem,
                     <a href="#" class="underline">trà sữa</a> Bánh kem Phú Giáo,
                     quán Bánh kem Phú Giáo gần đây,
                     <span class="text-pink-500"
                         >Menu Bánh kem Phú Giáo, thông tin tuyển dụng Bánh kem
                         Phú Giáo, nhượng quyền Bánh kem Phú Giáo...</span
                     >
-                    Bánh kem Phú Giáo có cửa hàng hầu hết trên các tỉnh thành
-                    tại Việt Nam và Đông Nam Á. Đặc biệt có nhiều cửa hàng tại
-                    các thành phố lớn của Việt Nam như Bánh kem Phú Giáo Đà
-                    Nẵng, Bánh kem Phú Giáo Hà Nội, Bánh kem Phú Giáo TP HCM
+                    Bánh kem Phú Giáo có cửa hàng tại các khu vực của Phú Giáo
+                    như Bánh kem Phước Hòa, Bánh kem Vĩnh Hòa,...
                 </p>
             </div>
 
